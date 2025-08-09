@@ -1,0 +1,13 @@
+{
+  "name": "Engine Road Speed Monitor",
+  "supportEmail": "support@yourcompany.com",
+  "version": "1.0",
+  "items": [
+    {
+      "page": "engine-speed.html",
+      "map": false,
+      "title": "Engine Road Speed Monitor",
+      "icon": "https://example.com/icon.png"
+    }
+  ]
+}
