@@ -1,13 +1,13 @@
 {
-  "name": "Engine Road Speed Monitor",
-  "supportEmail": "support@yourcompany.com",
-  "version": "1.0",
-  "items": [
-    {
-      "page": "engine-speed.html",
-      "map": false,
-      "title": "Engine Road Speed Monitor",
-      "icon": "https://example.com/icon.png"
-    }
-  ]
+    "name": "Engine Road Speed",
+    "supportEmail": "andy@intranetasia.com",
+    "version": "1.0",
+    "items": [
+        {
+            "page": "index.html",
+            "menuName": "Engine Road Speed Monitor",
+            "icon": "https://cdn-icons-png.flaticon.com/512/61/61168.png"
+        }
+    ],
+    "isSigned": false
 }
